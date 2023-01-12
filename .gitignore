@@ -2,6 +2,9 @@
 # Edit at https://www.toptal.com/developers/gitignore?templates=eclipse
 
 ### Eclipse ###
+
+Debug/
+
 .metadata
 bin/
 tmp/
@@ -10,7 +13,7 @@ tmp/
 *.swp
 *~.nib
 local.properties
-firmware/.settings/
+.settings/
 .loadpath
 .recommenders
 
@@ -24,7 +27,7 @@ firmware/.settings/
 *.pydevproject
 
 # CDT-specific (C/C++ Development Tooling)
-.cproject
+#.cproject
 
 # CDT- autotools
 .autotools
