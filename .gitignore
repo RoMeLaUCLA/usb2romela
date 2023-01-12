@@ -6,7 +6,7 @@
 Debug/
 
 .metadata
-bin/
+#bin/
 tmp/
 *.tmp
 *.bak
