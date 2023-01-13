@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name footprint_RoMeLa)(type KiCad)(uri "$(KIPRJMOD)\\..\\footprint_RoMeLa.pretty")(options "")(descr ""))
+)

@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name USB2RoMeLa_Boosted_interface-rescue)(type Legacy)(uri ${KIPRJMOD}/USB2RoMeLa_Boosted_interface-rescue.lib)(options "")(descr ""))
+)
