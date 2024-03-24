@@ -7,11 +7,11 @@ Packet acceleration is designed around Dynamixel communication protocols.
 
 ## Baudrate setting
 
-![Baudrate](/docs/baud_setting.jpg)
+<img src="/docs/baud_setting.jpg" height="200">
 
 ## Terminal resistor setting
 
-![terminal resistor](/docs/terminal_resistor_setting.jpg)
+<img src="/docs/terminal_resistor_setting.jpg" height="200">
 
 ## Startup code
  - Flash 2 times: 8Mbps
@@ -23,7 +23,7 @@ Packet acceleration is designed around Dynamixel communication protocols.
 
 # PCB reference
 
-![PCB ref](/docs/pcb_reference.jpg)
+<img src="/docs/pcb_reference.jpg" height="500">
 
 # Folder structure
 
