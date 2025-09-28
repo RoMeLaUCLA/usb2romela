@@ -25,6 +25,8 @@ Packet acceleration is designed around Dynamixel communication protocols.
 
 <img src="/docs/pcb_reference.jpg" height="500">
 
+[Link to schematics](/pcb/USB2RoMeLa_Boosted_rev2_1.pdf)
+
 # Latency test
 
 <img src="/docs/usb_latency.jpg" height="350">
