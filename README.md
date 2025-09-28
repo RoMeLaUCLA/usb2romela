@@ -25,6 +25,10 @@ Packet acceleration is designed around Dynamixel communication protocols.
 
 <img src="/docs/pcb_reference.jpg" height="500">
 
+# Latency test
+
+<img src="/docs/usb_latency.jpg" height="350">
+
 # Folder structure
 
 cad: 3D CAD files and render.
