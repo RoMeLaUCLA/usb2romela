@@ -3,6 +3,10 @@
 USB2RoMeLa Boosted is a low latency USB to RS-485 adapter. FT232H is used for USB to serial conversion. STM32 intercepts data packets and signals FT232H whenever a complete data packet is received, lowering roundtrip communication latency.
 Packet acceleration is designed around Dynamixel communication protocols. 
 
+ ## System Diagram
+
+ <img src="/docs/system_diagram.svg" width="600">
+
 # Usage
 
 ## Baudrate setting
