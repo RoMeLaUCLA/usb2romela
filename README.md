@@ -7,11 +7,11 @@ Packet acceleration is designed around Dynamixel communication protocols.
 
 ## Baudrate setting
 
-<img src="/docs/baud_setting.jpg" height="200">
+<img src="/docs/baud_setting.jpg" width="250">
 
 ## Terminal resistor setting
 
-<img src="/docs/terminal_resistor_setting.jpg" height="200">
+<img src="/docs/terminal_resistor_setting.jpg" width="250">
 
 ## Startup code
  - Flash 2 times: 8Mbps
